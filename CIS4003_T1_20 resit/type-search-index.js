@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circle"},{"p":"<Unnamed>","l":"Perimeter_and_Area"},{"p":"<Unnamed>","l":"ReadFile"},{"p":"<Unnamed>","l":"TextFile"},{"p":"<Unnamed>","l":"TextPassage"},{"p":"<Unnamed>","l":"Triangle"}];updateSearchResults();
